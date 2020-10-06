@@ -6,6 +6,6 @@
 <body>
     <h1>Minha página</h1>
     <p>Esta é a página principal do site no GitHub.</p>
-    <a href="index.html">Ir para o site</a>
+    <a href="xpto.html">Ir para o site</a>
 </body>
 </html>
